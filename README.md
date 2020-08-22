@@ -5,9 +5,6 @@ A trivia quiz app. If you have another field of expertise such as law or medicin
 * Change UI elements such as Labels and Buttons.
 * MVC pattern for app development.
 * Swift Struct instance.
-* Understand the difference between value types and reference types. 
-* Learn about Swift Classes and creating Objects.
-* Compare Swift Classes with Swift Structs and know when to use which.
 * Object Oriented Programming.
 
 
