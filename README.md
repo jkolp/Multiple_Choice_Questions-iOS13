@@ -1,6 +1,3 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Quizzler
 
 A trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
@@ -11,8 +8,8 @@ A trivia quiz app. If you have another field of expertise such as law or medicin
 * Understand the difference between value types and reference types. 
 * Learn about Swift Classes and creating Objects.
 * Compare Swift Classes with Swift Structs and know when to use which.
-* Learn about Object Oriented Programming.
-* How to refactor code and stay organised.
+* Object Oriented Programming.
+
 
 
 ![End Banner](Documentation/readme-end-banner.png)
